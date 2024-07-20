@@ -2,8 +2,8 @@
 
 Ini hanya aplikasi sederhana CRUD yang di buat dengan Express.js dan Ejs serta melibatkan PhpMyadmin.
 <li> Unduh melalui git di rekomendasikan.</li>
--- Ketikan seperti di bawah pada aplikasi gitbash
--- $ git clone https://github.com/diditgravatar/express-mysql.git
+<li>Ketikan seperti di bawah pada aplikasi gitbash.</li>
+<li>$ git clone https://github.com/diditgravatar/express-mysql.git</li>
 
 # Menjalankan aplikasi
 
