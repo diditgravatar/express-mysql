@@ -17,5 +17,5 @@ Ini hanya aplikasi sederhana CRUD yang di buat dengan Express.js dan Ejs serta m
 
 <h2>Buka Browser</h2>
 
-<li>Buka aplikasi di http://loaclhost:3000</li>
+<li>Buka aplikasi di http://localhost:3000</li>
 
