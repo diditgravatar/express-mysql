@@ -5,6 +5,9 @@ Ini hanya aplikasi sederhana CRUD yang di buat dengan Express.js dan Ejs serta m
 <li>Ketikan seperti di bawah pada aplikasi gitbash.</li>
 <li>$ git clone https://github.com/diditgravatar/express-mysql.git</li>
 
+<h2>Upload File SQL</h2>
+<p>Rekomendasi upload file create_db.sql di PhpMyadmin.</p>
+
 <h2>Menjalankan aplikasi</h2>
 
 <li>Buka folder yang anda download di Visual Studio Code di rekomendasikan.</li>
